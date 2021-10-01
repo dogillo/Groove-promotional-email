@@ -1,0 +1,365 @@
+<mjml>
+  <mj-head>
+
+    <mj-attributes>
+
+      <mj-class name="header" font-family="Georgia, 'Times New Roman', Times, serif" font-size="32px" line-height="36px" color="#000000" font-weight="normal" align="center" />
+      <mj-class name="px15-lh19" font-size="15px" line-height="19px" color="#033b4c" font-weight="normal" align="center" />
+      <mj-class name="px16-lh19" font-size="16px" line-height="19px" color="#033b4c" font-weight="normal" align="center" />
+      <mj-class name="px15-lh22" font-size="15px" line-height="22px" color="#000000" font-weight="normal" align="center" />
+
+      <mj-class name="btn-sm" background-color="#66a39d" width="150px" border="1px solid #66a39d" border-radius="3px" color="#ffffff" font-size="16px" line-height="44px" text-align="center" font-weight="normal" padding="0" />
+      <mj-class name="btn-lg" background-color="#ffffff" width="350px" border="3px solid #66a39d" border-radius="3px" color="#66a39d" font-size="15px" line-height="44px" text-align="center" font-weight="normal" padding="0" />
+
+      <mj-class name="light-green" background="#E2FFF0" background-color="#E2FFF0" />
+      <mj-class name="light-brown" background="#F7F2ED" background-color="#F7F2ED" />
+      <mj-class name="dark-green" background="#006853" background-color="#006853" />
+
+      <mj-column border=".5px solid lightblue" />
+      <mj-section border="1px dashed black" />
+      <mj-all font-family="Helvetica, Arial, Sans-serif" />
+      <mj-image padding="0" />
+      <mj-section padding="0" />
+      <mj-text padding="0" />
+      <mj-divider border-width="1px" border-style="solid" border-color="#005863" padding="10px 18px 27px 18px" />
+    </mj-attributes>
+
+    <mj-style>
+      h1,
+      h2,
+      h3,
+      h4,
+      p,
+      a {
+        padding: 0 !important;
+      }
+
+      @media (max-width:480px) {
+
+        .copy-pad-sm {
+          max-width: 95% !important;
+        }
+
+        .h-1 div {
+          font-size: 1.5rem !important;
+        }
+
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-section>
+      <mj-column width="33.3%" background-color="#033B4C">
+        <mj-image src="https://images.milledcdn.com/2021-09-15/OhhSFUOZNjjl8E5l/dxqgQgp2reDl.png" alt="Earn $10" width="200px" href="https://www.grove.co/pantry-login?fwd=refer%3Futm_content%3Dtrigger-header" />
+      </mj-column>
+      <mj-column width="33.3%" background-color="#033B4C">
+        <mj-image src="https://images.milledcdn.com/2021-09-15/OhhSFUOZNjjl8E5l/IixbSiNd4VO8.png" alt="Grove Collaborative" width="200px" href="https://www.grove.co/pantry-login?fwd=member%2Fhome%3Futm_content%3Dtrigger-header" />
+      </mj-column>
+      <mj-column width="33.3%" background-color="#033B4C">
+        <mj-image src="https://images.milledcdn.com/2021-09-15/OhhSFUOZNjjl8E5l/X8namCNo9OeC.png" alt="" width="200px" href="https://apps.apple.com/us/app/id1452655594" />
+      </mj-column>
+
+      <mj-column width="100%">
+        <mj-image src="https://images.milledcdn.com/2021-09-15/OhhSFUOZNjjl8E5l/Y4_GEuQC-DUz.jpeg" alt="This week only - Shipping as easy as one, two, three." width="600px" href="https://www.grove.co/pantry-login?fwd=member%2Fhome%2F%3Foffer%3Dnasnvfs0621%26utm_medium%3Demail%26utm_source%3Drem-trig%26utm_campaign%3Drem-NAS-7Day%26utm_term%3Dnvfs%26utm_content%3D" />
+      </mj-column>
+
+      <mj-column width="100%">
+        <mj-raw>
+          <tr>
+            <td height="20px" style="line-height: 1px;font-size: 1px;border-collapse: collapse;mso-line-height-rule: exactly;">&nbsp;</td>
+          </tr>
+        </mj-raw>
+      </mj-column>
+      <mj-column css-class="copy-pad-sm" width="85%">
+        <mj-text mj-class="px15-lh22">
+          Are you ready for another Grove box? Because we’ve got great news: we’ll cover your shipping this week. Bank that $4.99 savings for something more fun, like a summer ice cream cone or one of the healthy home picks below.
+        </mj-text>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-raw>
+          <tr>
+            <td height="20px" style="line-height: 1px;font-size: 1px;border-collapse: collapse;mso-line-height-rule: exactly;">&nbsp;</td>
+          </tr>
+        </mj-raw>
+      </mj-column>
+
+      <mj-column width="100%">
+        <mj-button href="https://www.grove.co/pantry-login?fwd=member%2Fhome%2F%3Foffer%3Dnasnvfs0621%26utm_medium%3Demail%26utm_source%3Drem-trig%26utm_campaign%3Drem-NAS-7Day%26utm_term%3Dnvfs%26utm_content%3D" background-color="#008181" width="325px" height="45px" border-radius="22.5px" color="#ffffff" font-size="15px" line-height="45px" text-align="center" font-weight="bold" padding="0">
+          Get Free Shipping
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-raw>
+          <tr>
+            <td height="50px" style="line-height: 1px;font-size: 1px;border-collapse: collapse;mso-line-height-rule: exactly;">&nbsp;</td>
+          </tr>
+        </mj-raw>
+      </mj-column>
+      <mj-column width="85%">
+        <mj-raw>
+          <tr>
+            <td height="1px" bgcolor="#d8d8d8" style="line-height: 1px;font-size: 1px;border-collapse: collapse;mso-line-height-rule: exactly;">&nbsp;</td>
+          </tr>
+        </mj-raw>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-raw>
+          <tr>
+            <td height="50px" style="line-height: 1px;font-size: 1px;border-collapse: collapse;mso-line-height-rule: exactly;">&nbsp;</td>
+          </tr>
+        </mj-raw>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column css-class="copy-pad-sm" width="95%">
+        <mj-text mj-class="header">
+          Try these green game-changers — picked just for you
+        </mj-text>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-raw>
+          <tr>
+            <td height="10px" style="line-height: 1px;font-size: 1px;border-collapse: collapse;mso-line-height-rule: exactly;">&nbsp;</td>
+          </tr>
+        </mj-raw>
+      </mj-column>
+      <mj-column css-class="copy-pad-sm" width="85%">
+        <mj-text mj-class="px16-lh19">
+          Grove has all the healthiest products for you and the planet. Try our <a href="https://www.grove.co/pantry-login?fwd=catalog%2Fproduct%2Fseedling-toilet-paper%3Foffer%3Dnasnvfs0621%26utm_medium%3Demail%26utm_source%3Drem-trig%26utm_campaign%3Drem-NAS-7Day%26utm_term%3Dnvfs%26utm_content%3D" style="text-decoration:underline; color: #033b4c; line-height: 19px;">tree-free toilet paper</a>, <a href="https://www.grove.co/pantry-login?fwd=beauty%3Foffer%3Dnasnvfs0621%26utm_medium%3Demail%26utm_source%3Drem-trig%26utm_campaign%3Drem-NAS-7Day%26utm_term%3Dnvfs%26utm_content%3D" style="text-decoration:underline; color: #033b4c; line-height: 19px;">clean beauty favorites</a>, or <a href="https://www.grove.co/pantry-login?fwd=catalog%2F%3Fcategory%3Dpet%26offer%3Dnasnvfs0621%26utm_medium%3Demail%26utm_source%3Drem-trig%26utm_campaign%3Drem-NAS-7Day%26utm_term%3Dnvfs%26utm_content%3D" style="text-decoration:underline; color: #033b4c; line-height: 19px;">green pet products</a>. Or add these top picks chosen just for you. <a href="https://www.grove.co/atc/?v=3578%2C1690%2C2823%2C6208" style="text-decoration:underline; color: #033b4c; line-height: 19px;">Tap "Add All</a>" (or choose your own) to reach the minimum.
+        </mj-text>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-raw>
+          <tr>
+            <td height="40px" style="line-height: 1px;font-size: 1px;border-collapse: collapse;mso-line-height-rule: exactly;">&nbsp;</td>
+          </tr>
+        </mj-raw>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="50%">
+        <mj-image src="https://images.milledcdn.com/2021-09-15/OhhSFUOZNjjl8E5l/pTcHZxhDaA7s.webp" href="https://milled.com/out?d=https%3A//www.grove.co/catalog/product/bathroom-cleaner/%3Fv%3D3578&p=this-grove-box-could-be-yours-8xAd_-fRCOUeEqLC" alt="Aunt Fannie's Bathroom Cleaner" width="250px" align="center" />
+        <mj-raw>
+          <tr>
+            <td height="35px" style="line-height: 1px;font-size: 1px;border-collapse: collapse;mso-line-height-rule: exactly;">&nbsp;</td>
+          </tr>
+        </mj-raw>
+        <mj-text height="100px" mj-class="px15-lh19">
+          <strong>Aunt Fannie's</strong>
+          <br>
+          Bathroom Cleaner
+        </mj-text>
+        <mj-button mj-class="btn-sm" href="https://www.grove.co/atc/?v=3578">
+          Add for $6.99
+        </mj-button>
+      </mj-column>
+
+      <mj-column width="50%">
+        <mj-image src="https://images.milledcdn.com/2021-09-15/OhhSFUOZNjjl8E5l/Bn_yIHS1Z2wT.webp" href="https://www.grove.co/catalog/product/eye-makeup-remover-pads/?v=1690" alt="Burt's Bees Eye Makeup Remover Pads" width="250px" align="center" />
+        <mj-raw>
+          <tr>
+            <td height="35px" style="line-height: 1px;font-size: 1px;border-collapse: collapse;mso-line-height-rule: exactly;">&nbsp;</td>
+          </tr>
+        </mj-raw>
+        <mj-text height="100px" mj-class="px15-lh19">
+          <strong>Burt's Bees</strong>
+          <br>
+          Eye Makeup Remover Pads
+        </mj-text>
+        <mj-button mj-class="btn-sm" href="https://www.grove.co/atc/?v=1690">
+          Add for $5.99
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="50%">
+        <mj-image src="https://images.milledcdn.com/2021-09-15/OhhSFUOZNjjl8E5l/1CE55ZEf1Sen.webp" href="https://www.grove.co/catalog/product/100-organic-cotton-rounds/?v=2823" alt="Grove Co. 100% Organic Cotton Rounds" width="250px" align="center" />
+        <mj-raw>
+          <tr>
+            <td height="35px" style="line-height: 1px;font-size: 1px;border-collapse: collapse;mso-line-height-rule: exactly;">&nbsp;</td>
+          </tr>
+        </mj-raw>
+        <mj-text height="100px" mj-class="px15-lh19">
+          <strong>Grove Co.</strong>
+          <br>
+          100% Organic Cotton Rounds
+        </mj-text>
+        <mj-button mj-class="btn-sm" href="https://www.grove.co/atc/?v=2823">
+          Add for $3.95
+        </mj-button>
+      </mj-column>
+
+      <mj-column width="50%">
+        <mj-image src="https://images.milledcdn.com/2021-09-15/OhhSFUOZNjjl8E5l/zZ1Oe8ITHv8s.webp" href="https://www.grove.co/catalog/product/100-recycled-plastic-trash-bags-drawstring/?v=6208" alt="Grove Co. 100% Recycled Plastic Trash Bags" width="250px" align="center" />
+        <mj-raw>
+          <tr>
+            <td height="35px" style="line-height: 1px;font-size: 1px;border-collapse: collapse;mso-line-height-rule: exactly;">&nbsp;</td>
+          </tr>
+        </mj-raw>
+        <mj-text height="100px" mj-class="px15-lh19">
+          <strong>Grove Co.</strong>
+          <br>
+          100% Recycled Plastic Trash Bags - Drawstring Top (Multiple Sizes)
+        </mj-text>
+        <mj-button mj-class="btn-sm" href="https://www.grove.co/atc/?v=6208">
+          Add for $6.95
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-raw>
+          <tr>
+            <td height="35px" style="line-height: 1px;font-size: 1px;border-collapse: collapse;mso-line-height-rule: exactly;">&nbsp;</td>
+          </tr>
+        </mj-raw>
+      </mj-column>
+      <mj-column css-class="copy-pad-sm" width="85%">
+        <mj-text font-size="16px" line-height="19px" color="#033b4c" font-weight="normal" align="center">
+          Love them all?
+        </mj-text>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-raw>
+          <tr>
+            <td height="25px" style="line-height: 1px;font-size: 1px;border-collapse: collapse;mso-line-height-rule: exactly;">&nbsp;</td>
+          </tr>
+        </mj-raw>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-button mj-class="btn-lg" vertical-align="middle">
+          ADD ALL RECOMMENDATIONS
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-raw>
+          <tr>
+            <td height="50px" style="line-height: 1px;font-size: 1px;border-collapse: collapse;mso-line-height-rule: exactly;">&nbsp;</td>
+          </tr>
+        </mj-raw>
+      </mj-column>
+      <mj-column width="85%">
+        <mj-raw>
+          <tr>
+            <td height="1px" bgcolor="#d8d8d8" style="line-height: 1px;font-size: 1px;border-collapse: collapse;mso-line-height-rule: exactly;">&nbsp;</td>
+          </tr>
+        </mj-raw>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-raw>
+          <tr>
+            <td height="50px" style="line-height: 1px;font-size: 1px;border-collapse: collapse;mso-line-height-rule: exactly;">&nbsp;</td>
+          </tr>
+        </mj-raw>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column css-class="copy-pad-sm" width="95%">
+        <mj-text mj-class="header">
+          Pick your gift!
+        </mj-text>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-raw>
+          <tr>
+            <td height="10px" style="line-height: 1px;font-size: 1px;border-collapse: collapse;mso-line-height-rule: exactly;">&nbsp;</td>
+          </tr>
+        </mj-raw>
+      </mj-column>
+      <mj-column css-class="copy-pad-sm" width="85%">
+        <mj-text mj-class="px16-lh19">
+          When you ship your qualifying order we’ll include one of these for FREE. Which one would you like?
+        </mj-text>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-raw>
+          <tr>
+            <td height="40px" style="line-height: 1px;font-size: 1px;border-collapse: collapse;mso-line-height-rule: exactly;">&nbsp;</td>
+          </tr>
+        </mj-raw>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="175px">
+        <mj-image src="https://images.milledcdn.com/2021-09-15/OhhSFUOZNjjl8E5l/eRVhH0piib9p.webp" alt="Grove Co. Bamboo Soap Saver & Bar Soap Set" href="https://www.grove.co/pantry-login?fwd=pantry%3Foffer%3Dnasnvfs0621%26utm_medium%3Demail%26utm_source%3Drem-trig%26utm_campaign%3Drem-NAS-7Day%26utm_term%3Dnvfs%26utm_content%3D" width="150px" />
+        <mj-raw>
+          <tr>
+            <td height="30px" style="line-height: 1px;font-size: 1px;border-collapse: collapse;mso-line-height-rule: exactly;">&nbsp;</td>
+          </tr>
+        </mj-raw>
+        <mj-text mj-class="px15-lh19">
+          <strong>
+            Grove Co.
+            <br>
+            Bamboo Soap Saver & Bar Soap Set
+          </strong>
+          <br>
+          Free with $55 purchase
+        </mj-text>
+      </mj-column>
+      <mj-column width="15px">
+        <mj-raw>
+          <tr>
+            <td width="15px" height="314" style="line-height: 1px;font-size: 1px;border-collapse: collapse;mso-line-height-rule: exactly;">&nbsp;</td>
+          </tr>
+        </mj-raw>
+      </mj-column>
+      <mj-column width="175px">
+        <mj-image src="https://images.milledcdn.com/2021-09-15/OhhSFUOZNjjl8E5l/Z0ZS-kHuL_Y2.webp" alt="Grove Co. Bamboo Soap Saver & Bar Soap Set" href="https://www.grove.co/pantry-login?fwd=pantry%3Foffer%3Dnasnvfs0621%26utm_medium%3Demail%26utm_source%3Drem-trig%26utm_campaign%3Drem-NAS-7Day%26utm_term%3Dnvfs%26utm_content%3D" width="150px" />
+        <mj-raw>
+          <tr>
+            <td height="30px" style="line-height: 1px;font-size: 1px;border-collapse: collapse;mso-line-height-rule: exactly;">&nbsp;</td>
+          </tr>
+        </mj-raw>
+        <mj-text mj-class="px15-lh19">
+          <strong>
+            Grove Co.
+            <br>
+            Kids Face Mask - Reusable - Now with Adjustable Straps - Brights
+          </strong>
+          <br>
+          Free with $35 purchase
+        </mj-text>
+      </mj-column>
+      <mj-column width="15px">
+        <mj-raw>
+          <tr>
+            <td width="15px" height="314" style="line-height: 1px;font-size: 1px;border-collapse: collapse;mso-line-height-rule: exactly;">&nbsp;</td>
+          </tr>
+        </mj-raw>
+      </mj-column>
+      <mj-column width="175px">
+        <mj-image src="https://images.milledcdn.com/2021-09-15/OhhSFUOZNjjl8E5l/fTr3ln2Y2Fb5.webp" alt="Grove Co. Bamboo Soap Saver & Bar Soap Set" href="https://www.grove.co/pantry-login?fwd=pantry%3Foffer%3Dnasnvfs0621%26utm_medium%3Demail%26utm_source%3Drem-trig%26utm_campaign%3Drem-NAS-7Day%26utm_term%3Dnvfs%26utm_content%3D" width="150px" />
+        <mj-raw>
+          <tr>
+            <td height="30px" style="line-height: 1px;font-size: 1px;border-collapse: collapse;mso-line-height-rule: exactly;">&nbsp;</td>
+          </tr>
+        </mj-raw>
+        <mj-text mj-class="px15-lh19">
+          <strong>
+            Grove Co.
+            <br>
+            Fresh Set
+          </strong>
+          <br>
+          Free with $99 purchase
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+
+</mjml>
